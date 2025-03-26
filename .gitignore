@@ -40,3 +40,6 @@ yarn-error.log*
 
 *.dev.yml
 
+# Umami
+UPDATE_STEPS.md
+update-umami.sh
